@@ -1,5 +1,5 @@
-name: PyInstaller Action uPDATED
-author: '@Martin005'
+name: PyInstaller Action Updated
+author: '@CodeByAidan'
 description: GitHub Action to package python scripts into executables
 branding: 
   icon: hard-drive
